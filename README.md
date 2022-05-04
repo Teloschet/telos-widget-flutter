@@ -1,5 +1,6 @@
 # telos-widget flutter
 
-- it's a project for study using flutter/dart.
+- TFoodies for shop using flutter for the app interface;
+- NodeJS + Express for the API CallBack.
 
-Latest update 17:55 03/05/2022.
+Latest update 15:42 04/05/2022.
